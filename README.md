@@ -2,7 +2,7 @@
 
 ## Description
 
-This is regards to refactoring html code to make it easier to read for users. This homework was completed by myself, for personal use, and as a profile. 
+This is regards to refactoring html code to make it easier to read for users. This homework was completed by myself.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-(In progress... Good luck!)
+Personal usage. Feel free to study the code.
 
 ## Credits
 
@@ -22,4 +22,5 @@ Please refer to the LICENSE in the repo
 
 ##Links: 
 github resipoitory link: https://github.com/s0m3y3/01Challenge/tree/main
-website link: 
+website link: https://s0m3y3.github.io/01Challenge/
+(*NOTE: website link does not work properly. My understanding, is that it html is referencing a folder which is typical of computer systematic labeling. Github may not use a similar approach??)

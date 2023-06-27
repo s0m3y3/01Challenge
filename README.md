@@ -1,8 +1,10 @@
 #Homework coding bootcamp project - challenge01. 
 
+![image](./Assets/images/overviewphoto.png)
+
 ## Description
 
-This is regards to refactoring html code to make it easier to read for users. This homework was completed by myself.
+Horiseon is a professional company that specialized in three work fields: Search Engine, Online Reputation Management, and Social Media Marketing. These services will save our client time, stress, and hopefully money. 
 
 ## Installation
 
@@ -10,7 +12,7 @@ N/A
 
 ## Usage
 
-Personal usage. Feel free to study the code.
+To help our clients' business thrive with our professional services. 
 
 ## Credits
 
@@ -23,4 +25,4 @@ Please refer to the LICENSE in the repo
 ##Links: 
 github resipoitory link: https://github.com/s0m3y3/01Challenge/tree/main
 website link: https://s0m3y3.github.io/01Challenge/
-(*NOTE: website link does not work properly. My understanding, is that it html is referencing a folder which is typical of computer systematic labeling. Github may not use a similar approach??)
+

@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* set background color to a very tint light green */
 body {
     background-color: #d9dcd6;
 }
 
+/* base header set-up */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,13 +17,16 @@ header {
     color: #ffffff;
     width: 100%;
 }
+/* header for "HORISEON", title of website*/
 header h1 { 
     display: inline-block;
     font-size: 48px;
 }
+/* "HORISEON" to change SEOo to a different color */
 header h1 .seo {
     color: #d9dcd6;
 }
+/* for nav bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -29,24 +34,22 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* header for nav bar, unorder list for:search-engine-optimization, online-reputation-management, social-media-marketing */
 header nav ul {
     list-style-type: none;
 }
+/* for: search-engine-optimization, online-reputation-management, social-media-marketing */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* setting standard fontsize for paragraphs <p> */
 p {
     font-size: 16px;
 }
 
-
+/* background image for the website */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,7 +59,7 @@ p {
     background-position: center;
 }
 
-
+/*For the artical images, setting their position to float left/right  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -66,6 +69,7 @@ p {
     margin-left: 25px;
 }
 
+/* artical's content default css settings*/
 content {
     width: 75%;
     display: inline-block;
@@ -73,21 +77,24 @@ content {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
 }
+/* content article setting */
     content article {
         margin-bottom: 20px;
         padding: 50px;
         height: 300px;
         background-color: #0072bb;
     }
+    /* adjust content img height */
     content img {
         max-height: 200px;
     }
+    /* artical header name */
     content h2 {
         margin-bottom: 20px;
         font-size: 36px;
     }
 
-
+/* aside section for html */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -98,27 +105,31 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* add margins and color to the section, which includes: lead-generation, brand-awareness, cost-management */
     aside section{
         margin-bottom: 32px;
         color: #ffffff;
     }
+    /* add margins and center for header3 (lead-generation, brand-awareness, cost-management) */
     aside h3{
         margin-bottom: 10px;
         text-align: center;
     }
+    /* adjust aside image to display block, margin, and max-width */
     aside img {
         display: block;
         margin: 10px auto;
         max-width: 150px;
     }
 
-
+/*adjust footer, setting a default value for below*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+/* adjust font-size, for "Made with ❤️️ by Horiseon" in HTML. */
 footer h2 {
     font-size: 20px;
 }

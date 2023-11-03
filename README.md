@@ -1,4 +1,4 @@
-# Horiseon Webpage 
+# Horiseon - A Consulting Firm 
 
 ![image](./Assets/images/overviewphoto.png)
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-Horiseon is a professional company that specialized in three work fields: Search Engine, Online Reputation Management, and Social Media Marketing. These services will save our client time, stress, and hopefully money. 
+Horiseon is a professional company that specialized in three work fields: Search Engine, Online Reputation Management, and Social Media Marketing. These services will save our client time, stress, and money. 
 
 ## Installation
 
@@ -35,9 +35,9 @@ To help our clients' business thrive with our professional services.
 
 
 ## Contact: 
-GitHub Repo: [s0m3y3](https://github.com/s0m3y3/Horiseon_website/)
+GitHub Repo: [s0m3y3](https://github.com/s0m3y3/Horiseon_Consultant/)
 
-Live-page: [Here](https://s0m3y3.github.io/Horiseon_website/)
+Live-page: [Here](https://s0m3y3.github.io/Horiseon_Consultant/)
 
 
 

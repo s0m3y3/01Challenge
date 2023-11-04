@@ -37,11 +37,13 @@ header nav {
 /* header for nav bar, unorder list for:search-engine-optimization, online-reputation-management, social-media-marketing */
 header nav ul {
     list-style-type: none;
+    color: #d9dcd6;
 }
 /* for: search-engine-optimization, online-reputation-management, social-media-marketing */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    color: #d9dcd6;
 }
 
 /* setting standard fontsize for paragraphs <p> */
